@@ -1,0 +1,359 @@
+body{
+    color: white;
+    background-image: url(/images/black2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000vh;
+}
+.home{
+ display: flex;
+ margin-left: 20%;   
+}
+.image1 img{
+
+ width: 30%; 
+ margin-top: -15%;
+ margin-left: -70%; 
+}
+nav a{
+ margin-left: 0.5%; 
+ text-decoration: none;  
+ 
+ padding: 1%;
+}
+.icons{
+ margin-left: 12%;
+ margin-top: 1%;   
+}
+.button1{
+ margin-left: 23%;
+ width: 8%;
+ height: 8vh;
+ 
+    
+}
+.shoes h1{
+ font-size: 250%;   
+}
+.shoes p{
+ font-size:110% ;   
+}
+.button2{
+ width:8% ;
+ height:8vh ;   
+}
+.nav{
+    margin-top: 1%;
+    margin-left: -15%;
+    
+}
+.image2 img{
+ height: 16vh;
+ margin-left: 8%; 
+ margin-top: -2%;   
+}
+.text{
+ margin-left: 16%;
+ margin-top: -3%;   
+}
+.image3 img{
+ margin-left: 50%;
+ margin-top: -50%;
+ height: 100vh;   
+}
+.text{
+ display: flex;   
+}
+.text1{
+ padding-top: 1%;
+ color: rgb(235, 231, 17);  
+}
+.text2{
+ margin-left: 16%;
+ margin-top: -2%;   
+}
+.image4 img{
+ height: 27.7vh;
+ margin-left: 58%;
+ margin-top: -29%;
+ margin-bottom: 10%;   
+}
+.box{
+ margin-left: 71%;
+ border: 1px solid;
+ width: 19%;
+ text-align: center;
+
+
+}
+.text3{
+ margin-left: 35%;   
+}
+.text3 h1{
+ font-size: 320%;   
+}
+.image5 img{margin-bottom: 15%;
+ width: 33%;
+ height: 55vh;
+ border: 1px solid;
+  
+}
+.image6 img{
+ margin-left: 33.5%;
+ margin-top: -48%;
+ margin-bottom: 16.5%; 
+ width: 33%;
+ height: 55vh;
+ border: 0.5px solid;  
+}
+.image7 img{
+ border: 1px solid;
+ height: 55vh;
+ width:33% ;
+ margin-left: 67%; 
+ margin-top: -42%; 
+ margin-bottom: 24.5%; 
+}
+.icons1{
+ margin-left: 85%;
+ margin-top: -7%;
+ margin-bottom: 5%;
+ font-size: 200%;
+ border: 1px solid;
+ width: 5%;   
+}
+.shoe1{
+ margin-top: -22%;   
+}
+.shoe2{
+    margin-left: 33%;
+    margin-top: -15.5%;
+}
+.shoe3{
+  margin-left: 67%;
+  margin-top: -15%;  
+}
+.button3{
+ background-color: rgb(240, 25, 175);
+ width: 7%;
+ height: 5vh;  
+}
+.button4{
+  background-color:rgb(240, 25, 175) ; 
+  width: 10%;
+  height: 5vh;    
+}
+.button5{
+ background-color:rgb(240, 25, 175) ;
+ width: 20%; 
+ height: 5vh;  
+}
+.heading{
+ margin-left: 68%;
+ margin-top: 7%;   
+}
+.text5{
+    font-size: 200%;
+    margin-left: -22%;
+}
+.paragraph{
+ font-size: 100%;
+ margin-left: -20%;   
+}
+.button6{
+ margin-left: -20%;
+ background-color:rgb(240, 25, 175) ;
+ height: 6vh;   
+}
+.shoe4 img{
+margin-top: -30%;
+margin-left: -5%;
+}
+.box1{
+ border: 1px solid; 
+ width: 14%;
+ text-align: center;
+ margin-top: -31%;
+ margin-left: 27%;
+ 
+}
+.paragraph1{
+margin-top: 23%;  
+}
+.heading2{
+ font-size: 200%;
+ margin-top: -1%;   
+}
+.text6{
+ font-size: 100%; 
+ margin-top: -1%;  
+}
+.text7{
+ margin-top: 3%;
+ font-size: 110%;   
+}
+.icons2 img{
+ width: 6%;
+ margin-top: 2%; 
+
+  
+}
+.heading3{
+margin-left: 6%;
+margin-top: -7.5%;    
+}
+.text8{
+ margin-left: 6%;   
+}
+.icons3 img{
+ width: 7%;
+ margin-top: 2%;
+}
+.heading4{
+ margin-left: 6%; 
+ margin-top: -8%;  
+}
+.text9{
+ margin-left: 6%;   
+}
+.image8 img{
+ margin-left: 36%;
+ width: 38%; 
+ margin-top: -50%;
+ margin-bottom: 8%;  
+}
+.image9 img{
+ width: 6%; 
+ margin-left: 69%;
+ margin-top: -80%;
+margin-bottom: 30%;
+}
+.message{
+margin-left: 70%;
+border: 1px solid;
+text-align: center;
+margin-top: -30%;
+margin-bottom: 40%; 
+width: 20%;   
+
+}
+.heading5{
+
+ font-size: 200%;
+ margin-top: -22%;
+ margin-bottom: 7%;
+margin-left: 24%;
+}
+.icons4{
+ margin-left: 90%;
+ margin-top: -11%;
+ border: 1px solid; 
+ width: 5%;
+ text-align: center;
+ font-size: 200%;
+}
+.image10 img{
+ height: 22vh;
+ width: 10%;
+ border-radius: 80%;
+ border: 1px solid; 
+ margin-top: 3%;
+ margin-left: 12%;
+}
+.text10{
+margin-left: 8%; 
+font-size: 100%; 
+}
+.stars2{
+  margin-left: 8%;
+  color: rgb(234, 250, 15);
+}
+.heading6{
+ margin-left: 8%; 
+}
+.image11 img{
+  height: 22vh;
+  width: 10%;
+  border-radius: 80%;
+  border: 1px solid;
+  margin-left: 66%;
+  margin-top: -30%;
+  margin-bottom: 17%;
+}
+.text11{
+  margin-left: 65%;
+  margin-top: -17%;
+  font-size: 100%;
+}
+.stars3{
+ color:rgb(234, 250, 15) ; 
+ margin-left: 65%;
+}
+.heading7{
+  margin-left: 65%;
+}
+.heading8{
+ font-size: 200%;
+ margin-top: 10%;
+ margin-bottom: -9%; 
+ margin-left: 5%;
+}
+.sign{
+ margin-left: 50%;
+ margin-top: -50%;
+ margin-bottom: 10%;
+ width: 35%;
+ height: 8vh;
+
+}
+.button7{
+  margin-left: -10%;
+  color: rgb(224, 11, 196);
+
+}
+.hold1{
+  margin-top: -14%; 
+}
+.image12 img{
+ width: 20%;
+  
+}
+.text12{
+margin-top: -16%;
+margin-left: 6%;
+}
+.facebook img{
+ width: 2%; 
+ margin-left: 5%;
+}
+.instagram img{
+ width: 2%; 
+ margin-left: 8%;
+ margin-top: -10%;
+ margin-bottom: 1.5%;
+}
+.twitter img{
+ width: 2%;
+ margin-left: 11%;
+ margin-top: -20%;
+ margin-bottom: 3%; 
+}
+.final{
+  display: flex;
+  margin-left: 9%;
+}
+.product{
+  margin-top: -16%;
+  margin-left: 20%;
+}
+.p{
+  font-size: 100%;
+}
+.Help{
+ margin-top: -16%;
+ margin-left: 14%; 
+}
+.About{
+ margin-top: -16%;
+ margin-left: 12%;  
+}
